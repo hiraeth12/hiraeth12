@@ -70,13 +70,20 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="center">🔥   My Stats :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hiraeth12&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+![](https://nirzak-streak-stats.vercel.app/?user=hiraeth12&theme=tokyonight&hide_border=true)  ![](https://github-readme-stats.vercel.app/api?username=hiraeth12&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiraeth12&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
+
 </div>
+
 
 ###
 
@@ -85,3 +92,29 @@
 </div>
 
 ###
+
+### 
+
+  <h2 align="center">✍️ Random Dev Quote
+</h2>
+
+###
+
+<div align="center">
+
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br/>
+
+</div>
+
+### 
+
+   <h2 align="center">🔝 Top Contributed Repo
+</h2>
+
+###
+
+<div align="center">
+
+  ![](https://github-contributor-stats.vercel.app/api?username=hiraeth12&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
