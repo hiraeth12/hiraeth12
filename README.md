@@ -93,11 +93,17 @@
 </div>
 
 ###
+<h2 align="center">✍️ My Personal Quotes</h2>
+<div align="center"> 
+  
+  ![image](https://github.com/user-attachments/assets/d6e72bb5-e54a-43ce-b9ef-3049a098a597)
+</div>
+
+###
 
 ### 
 
-  <h2 align="center">✍️ Random Dev Quote
-</h2>
+  <h2 align="center">✍️ Random Dev Quote</h2>
 
 ###
 
