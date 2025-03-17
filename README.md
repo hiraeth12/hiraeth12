@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Sahrul Ridho Firdaus,<br><br>- 🔭 I’m an Undergraduate Student at Telkom University<br>- 📚 Computer Engineering Major <br>- ⚡ In my free time I sleep</p>
+<p align="left">I'm Sahrul Ridho Firdaus,<br><br>- 🔭 I’m an Undergraduate Student at Telkom University<br>- 📚 Computer Engineering Major <br>- ⚡ In my free time I sleep <br>- 🤖 Artificial Intelligence Enthusiast </p>
 
 ###
 
