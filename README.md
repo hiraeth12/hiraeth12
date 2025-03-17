@@ -89,7 +89,7 @@
 ###
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/zHdrNw2XcygAAAAC/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE-sousou-no-frieren.gif" width="150"/>
+  <img src="https://media1.tenor.com/m/zHdrNw2XcygAAAAC/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE-sousou-no-frieren.gif" width="150"/> <br>
   <img src="https://media1.tenor.com/m/vd9hM9uTeGoAAAAC/fern-sousou-no-frieren.gif" width="150"/>
 </div>
 
