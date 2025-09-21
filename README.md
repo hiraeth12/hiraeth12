@@ -1,3 +1,8 @@
+<!-- Masthead -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif" alt="Masthead" width="100%" />
+</p>
+
 <div align="center">
   <img height="150" src="https://image.popbela.com/content-images/post/20240823/1000-x-667-3-ca778d0725ce8ab63c26f8a62ec2a0d2.jpg"  />
 </div>
@@ -37,8 +42,6 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="javascript logo" />
@@ -49,13 +52,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" alt="figma logo" />
   <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" height="40" alt="figma logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss" />      
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -81,22 +82,19 @@
 
 <div align="center">
 
+
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiraeth12&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiraeth12&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+</p>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=hiraeth12&theme=tokyonight&hide_border=true)<br/> 
-
-![](https://github-readme-stats.vercel.app/api?username=hiraeth12&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiraeth12&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
-
 
 </div>
 
 
 ###
-
-<div align="center">
-  <img src="https://media1.tenor.com/m/zHdrNw2XcygAAAAC/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE-sousou-no-frieren.gif" width="150"/> <br>
-  <img src="https://media1.tenor.com/m/vd9hM9uTeGoAAAAC/fern-sousou-no-frieren.gif" width="150"/>
-</div>
 
 
 ###
