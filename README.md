@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-  <img height="150" src="https://image.popbela.com/content-images/post/20240823/1000-x-667-3-ca778d0725ce8ab63c26f8a62ec2a0d2.jpg"  />
+  <img height="150" src="https://imagedelivery.net/2MtOYVTKaiU0CCt-BLmtWw/c9d17484-ff1a-475e-9d1d-bc89af710a00/w=1280" />
 </div>
 
 ###
