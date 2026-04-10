@@ -111,17 +111,28 @@
 
 ### 
 
-   <h2 align="center">🔝 Top Contributed Repo
+   <h2 align="center"> Recently Played Spotify 🎧
 </h2>
 
 ###
 
 <div align="center">
-
-  ![](https://github-contributor-stats.vercel.app/api?username=hiraeth12&limit=5&theme=dark&combine_all_yearly_contributions=true)
+    
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vxakhzeccqoj2imgr74kkcb4f4)
 
 </div>
 
 ### 
 
-![snake gif](https://github.com/hiraeth12/hiraeth12/blob/output/github-contribution-grid-snake.gif)
+###
+
+<picture>
+  
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hiraeth12/hiraeth12/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hiraeth12/hiraeth12/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hiraeth12/hiraeth12/output/pacman-contribution-graph.svg">
+
+</picture>
+
+###
+
