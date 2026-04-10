@@ -1,3 +1,13 @@
+<p>
+
+  <img 
+  src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sahrul%20Ridho%20Firdaus&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Engineering%20Student&descSize=18&descAlignY=55&textBg=false"
+  width="100%"
+/>
+
+</p>
+
+
 <!-- Masthead -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif" alt="Masthead" width="100%" />
@@ -39,7 +49,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -74,9 +84,32 @@
          
 </div>
 
+### 
+
+<h2 align="center"> Stats 🔥 </h2>
+
+
+<p align="center">
+  <a href="https://github.com/hiraeth12">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hiraeth12&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="hiraeth12's GitHub Stats" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=hiraeth12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sahrul Ridho Firdaus's GitHub Trophies" />
+</p>
+
+### 
+<h2 align="center"> Most used Languages 💻 </h2>
+
+<p align="center">
+  <a href="https://github.com/hiraeth12">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hiraeth12&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
 ###
 
-<h2 align="center">🔥   My Stats :</h3>
+<h2 align="center"> Snek 🐍 </h2>
 
 ###
 
@@ -84,12 +117,7 @@
 
 
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiraeth12&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiraeth12&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
-</p>
-
-![](https://nirzak-streak-stats.vercel.app/?user=hiraeth12&theme=tokyonight&hide_border=true)<br/> 
+![snake gif](https://github.com/hiraeth12/hiraeth12/blob/output/github-snake.svg)
 
 </div>
 
