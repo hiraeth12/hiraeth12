@@ -1,17 +1,6 @@
-<p>
-
-  <img 
-  src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sahrul%20Ridho%20Firdaus&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Engineering%20Student&descSize=18&descAlignY=55&textBg=false"
-  width="100%"
-/>
-
-</p>
-
-
 <!-- Masthead -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif" alt="Masthead" width="100%" />
-</p>
+<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
+
 
 <div align="center">
   <img height="150" src="https://imagedelivery.net/2MtOYVTKaiU0CCt-BLmtWw/c9d17484-ff1a-475e-9d1d-bc89af710a00/w=1280" />
@@ -19,21 +8,28 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/sahrulfirdaus/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<p align="center">
+  <a href="in/sahrulfirdaus">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@Kaagaya">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sahrulfirdauz9987@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://senaectae.vercel.app/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
-  <a href="https://www.youtube.com/@Kaagaya" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/sahrulfirdaus/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
+</p>
 
 ###
 
-<h1 align="center">Welcome Welcome 🤘</h1>
+<h1 align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=24&duration=3000&pause=1000&center=true&width=435&lines=Hello+There+!%F0%9F%91%8B;Sahrul+Ridho+Firdaus+Here+%F0%9F%98%B9;Please+call+me+Sahrul+;Nice+to+meet+you+All+!)](https://git.io/typing-svg)
+
+</h1>
 
 ###
 
@@ -159,4 +155,8 @@
   
   <img src="https://media1.tenor.com/m/3NQvh3ExGSEAAAAd/himmel-makes-me-wanna-die-hes-so-pretty.gif" />
 
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
