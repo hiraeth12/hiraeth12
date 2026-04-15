@@ -78,8 +78,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
   
          
 </div>
@@ -150,4 +148,15 @@
 
 </div>
 
-### 
+###
+
+   <h2 align="center"> Pria Amal Jariyah 
+</h2>
+
+###
+
+<div align="center">
+  
+  <img src="https://media1.tenor.com/m/3NQvh3ExGSEAAAAd/himmel-makes-me-wanna-die-hes-so-pretty.gif" />
+
+</div>
