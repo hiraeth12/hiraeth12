@@ -81,8 +81,18 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hiraeth12&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="hiraeth12's GitHub Stats" />
   </a>
 </p>
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hiraeth12&theme=radical&hide_border=true&cache_seconds=86400" alt="hiraeth12's GitHub Streak" width="49%" />
+</p>
+
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=hiraeth12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sahrul Ridho Firdaus's GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=hiraeth12&theme=radical&radius=10" alt="hiraeth12's Activity Graph" />
 </p>
 
 ### 
