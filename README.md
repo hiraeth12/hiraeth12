@@ -1,29 +1,29 @@
 <!-- Masthead -->
-<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
+<img src="https://preview.redd.it/made-a-gif-of-miles-and-gwen-in-the-different-universes-v0-cbys2pefsv8b1.gif?width=600&auto=webp&s=b4fa9bb0e54f3b17d13531e90e317aad10a1f0d9" alt="Banner" width="100%" />
 
 
 <div align="center">
-  <img height="150" src="https://imagedelivery.net/2MtOYVTKaiU0CCt-BLmtWw/c9d17484-ff1a-475e-9d1d-bc89af710a00/w=1280" />
+    <img src="https://media.tenor.com/wZ38fxcRj5gAAAAM/ekko-ekko-alone.gif" alt="Banner" width="25%" />
+  
+  > sometimes taking a leap forward means leaving a few things behind
 </div>
 
 ###
 
 <p align="center">
-  <a href="in/sahrulfirdaus">
+  <a href="">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="instagram.com/sahrulfirdaus">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="Instagram" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@Kaagaya">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:sahrulfirdauz9987@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://senaectae.vercel.app/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
-  </a>
+  <a href="https://instagram.com/sahrulfirdaus">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="Instagram" width="40" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:sahrulfirdauz9987@gmail.com">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://senaectae.vercel.app/">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+</a>
 </p>
 
 ###
@@ -61,10 +61,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" alt="figma logo" />
   <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss" />      
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -133,6 +129,8 @@
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br/>
 
 </div>
+
+
 
 ### 
 
