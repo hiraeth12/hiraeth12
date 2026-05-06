@@ -2,12 +2,6 @@
 <img src="https://preview.redd.it/made-a-gif-of-miles-and-gwen-in-the-different-universes-v0-cbys2pefsv8b1.gif?width=600&auto=webp&s=b4fa9bb0e54f3b17d13531e90e317aad10a1f0d9" alt="Banner" width="100%" />
 
 
-<div align="center">
-    <img src="https://media.tenor.com/wZ38fxcRj5gAAAAM/ekko-ekko-alone.gif" alt="Banner" width="25%" />
-  
-  > sometimes taking a leap forward means leaving a few things behind
-</div>
-
 ###
 
 <p align="center">
