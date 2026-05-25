@@ -6,7 +6,7 @@
 ###
 
 <p align="center">
-  <a href="">
+  <a href="https://www.linkedin.com/in/sahrulfirdaus">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/sahrulfirdaus">
